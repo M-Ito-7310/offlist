@@ -17,12 +17,12 @@
 
 ## タスクチェックリスト
 
-### Task 6.1: ビルド最適化 (15分)
+### Task 6.1: ビルド最適化 (15分) ✅
 
-- [ ] `next.config.mjs` の最適化設定
-- [ ] 不要なコンソールログ削除
-- [ ] プロダクションビルド実行
-- [ ] ビルドサイズ確認
+- [x] `next.config.mjs` の最適化設定
+- [x] 不要なコンソールログ削除
+- [x] プロダクションビルド実行
+- [x] ビルドサイズ確認
 
 **ファイル**: `next.config.mjs` (最適化設定追加)
 
@@ -65,12 +65,12 @@ du -sh .next
 
 ---
 
-### Task 6.2: Lighthouse PWAテスト (15分)
+### Task 6.2: Lighthouse PWAテスト (15分) ✅
 
-- [ ] Lighthouseを実行
-- [ ] PWAスコア 95点以上を確認
-- [ ] パフォーマンススコア 90点以上を確認
-- [ ] 問題があれば修正
+- [x] Lighthouseを実行
+- [x] PWAスコア 95点以上を確認 (本番環境で再確認)
+- [x] パフォーマンススコア 90点以上を確認
+- [x] 問題があれば修正
 
 **テスト実行**:
 ```bash
@@ -100,11 +100,11 @@ npx lighthouse http://localhost:3000 --view --preset=mobile
 
 ---
 
-### Task 6.3: Vercel設定 (10分)
+### Task 6.3: Vercel設定 (10分) ✅
 
-- [ ] Vercelアカウント作成 (未作成の場合)
-- [ ] GitHubリポジトリ作成 (オプション)
-- [ ] `vercel.json` 作成 (オプション、基本不要)
+- [x] Vercelアカウント作成 (未作成の場合)
+- [x] GitHubリポジトリ作成 (オプション)
+- [x] `vercel.json` 作成 (オプション、基本不要)
 
 **Vercelアカウント作成**:
 - https://vercel.com/signup
