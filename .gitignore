@@ -47,3 +47,5 @@ next-env.d.ts
 lighthouse-*.json
 lighthouse-*.html
 check-lighthouse.js
+
+.vercel
