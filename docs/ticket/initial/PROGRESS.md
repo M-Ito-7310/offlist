@@ -223,8 +223,9 @@
 
 **Status**: 🎉 **MVP完成！** 全てのPhaseが完了しました！
 
-**本番URL**: https://offlist-livid.vercel.app/
+**本番URL**: https://offlist.kaleidofuture.com/
 **GitHubリポジトリ**: https://github.com/M-Ito-7310/offlist
+**Vercel**: https://vercel.com/m-ito-7310s-projects/offlist
 
 ---
 

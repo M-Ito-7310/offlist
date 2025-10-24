@@ -2,17 +2,19 @@
 
 ## 🌐 本番環境
 
-**本番URL**: https://offlist-livid.vercel.app/
+**本番URL**: https://offlist.kaleidofuture.com/
+
+**Vercel URL**: https://offlist-livid.vercel.app/ (リダイレクト)
 
 ### QRコード（スマホでアクセス）
 
 実機でテストする際は、スマホのカメラで以下のQRコードをスキャンしてください：
 
 ```
-https://offlist-livid.vercel.app/
+https://offlist.kaleidofuture.com/
 ```
 
-QRコード生成: https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://offlist-livid.vercel.app/
+QRコード生成: https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://offlist.kaleidofuture.com/
 
 ---
 
