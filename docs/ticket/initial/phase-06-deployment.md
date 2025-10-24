@@ -183,12 +183,14 @@ vercel --prod
 
 ---
 
-### Task 6.6: 実機テスト (10分)
+### Task 6.6: 実機テスト (10分) ✅
 
-- [ ] iOSデバイスでテスト (Safari)
-- [ ] Androidデバイスでテスト (Chrome)
-- [ ] ホーム画面へのインストール確認
-- [ ] 機内モードで動作確認
+- [x] iOSデバイスでテスト (Safari)
+- [x] Androidデバイスでテスト (Chrome)
+- [x] ホーム画面へのインストール確認
+- [x] 機内モードで動作確認
+
+**本番URL**: https://offlist-livid.vercel.app/
 
 **iOS (Safari)**:
 1. Safariで本番URLを開く
