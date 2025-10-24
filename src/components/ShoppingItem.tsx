@@ -23,8 +23,8 @@ export default function ShoppingItem({
 
   return (
     <div
-      className={`bg-white rounded-lg shadow-sm p-4 mb-2 transition-all ${
-        item.checked ? 'opacity-60' : ''
+      className={`bg-white rounded-lg shadow-sm p-4 mb-2 transition-all duration-300 ${
+        item.checked ? 'opacity-60 scale-95' : 'opacity-100 scale-100'
       }`}
     >
       <div className="flex items-center gap-3">
